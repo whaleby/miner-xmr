@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLET=46Rj65VihKFXSe9Wf6Q6yX5TEXbXVmYZeNAgvDbFYBgEK1yXhAQEEGdWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm43Eq5B7
+WALLET=8BbxcqQbNzo8yyPDtqzkNPDsr6f2YmMVeNEYJZGXzCsVVhgRg4nUsBGCxwtwGQ5ojQNo2FgVTfYbfTk8srdJLH2wBhDqX7z
 ID="$(hostname)"
 MAIL=whaleby@yandex.ru
 PASSWORD=$ID:$MAIL
